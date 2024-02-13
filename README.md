@@ -1,9 +1,9 @@
 ### Olá!! Eu sou a Nicolly Santos
   <a href="https://github.com/Collysdev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Collysdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Collysdev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/Collysdev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Collysdev&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Collysdev&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" />
 </a>
  
 <div style="display: inline_block"><br>
